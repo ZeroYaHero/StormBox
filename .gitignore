@@ -1,8 +1,7 @@
 *.uasset
 *.umap
-*.1001
-*.1002
-*.1003
+*.png
+!T_SB_LogoOutline
 
 SBI_Meshes/
 SBI_PersistenceManagement/
