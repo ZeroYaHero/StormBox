@@ -8,7 +8,9 @@ https://www.fortnite.com/news/fortnite-island-creator-rules<br/>
 Storm Box derives from gamemodes already popular with the general combat engaged playerbase.<br/> 
 - One half of Storm Box originates from a mode where players enjoy combat in an enclosed-small-indestructible box with materials to build (Box fights). 
 - The other half takes from Zone Wars, a gamemode that essentially takes the Storm/Zone mechanic from traditional Battle Royales (BR) that are used to force players into combat engagement, but in a much faster pace, omitting the "looting" period of a game.
-Storm Box makes that enclosed-small-indestructible box function the same as the Storm/Zone mechanic seen in BR and Zone Wars.
+Storm Box makes that enclosed-small-indestructible box function the same as the Storm/Zone mechanic seen in BR and Zone Wars.<br/>
+<br/>
+Much of Storm Box's execution is done with the ecosystem in mind. Everything designed is tailored to capture the attention of typical Fortnite players accustomed to playing an occassional UGC experience. For those reasons the design for certain things is done in a way to not startle the average player.
 
 Storm Box can be played following the directions seen here:
 https://www.fortnite.com/@zeroyahero/7521-0495-2926
