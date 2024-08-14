@@ -1,7 +1,9 @@
 *.uasset
 *.umap
 *.png
-!T_SB_LogoOutline
+*.code-workspace
+*.uplugin
+!T_SB_LogoOutline.png
 
 SBI_Meshes/
 SBI_PersistenceManagement/
