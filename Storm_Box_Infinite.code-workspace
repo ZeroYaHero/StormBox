@@ -1,0 +1,56 @@
+{
+    "folders": [
+        {
+            "name": "Storm_Box_Infinite",
+            "path": "C:/Users/PC/Documents/Fortnite Projects/Storm_Box_Infinite/Plugins/Storm_Box_Infinite/Content"
+        },
+        {
+            "name": "Storm_Box_Infinite/Assets",
+            "path": "C:/Users/PC/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/Storm_Box_Infinite/Storm_Box_Infinite-Assets"
+        },
+        {
+            "name": "vproject - DO NOT MODIFY",
+            "path": "C:/Users/PC/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/Storm_Box_Infinite/vproject"
+        },
+        {
+            "name": "Verse",
+            "path": "C:/Users/PC/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/Storm_Box_Infinite/Verse"
+        },
+        {
+            "name": "UnrealEngine",
+            "path": "C:/Users/PC/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/Storm_Box_Infinite/UnrealEngine"
+        },
+        {
+            "name": "Fortnite",
+            "path": "C:/Users/PC/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/Storm_Box_Infinite/Fortnite"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/*.uasset": true,
+            "**/*.umap": true,
+            "**/*.png": true,
+            "**/*.jpg": true,
+            "**/*.tga": true,
+            "_INT": true,
+            "**/*.vproject": true,
+            "__ExternalActors__": true,
+            "__ExternalObjects__": true
+        },
+        "files.autoSave": "onWindowChange",
+        "workbench.colorTheme": "Verse (Dark)",
+        "editor.bracketPairColorization.enabled": false,
+        "editor.acceptSuggestionOnEnter": "off"
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Verse Debug",
+                "type": "verse",
+                "request": "attach",
+                "debugServer": 1961
+            }
+        ]
+    }
+}
