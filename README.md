@@ -11,6 +11,6 @@ Storm Box derives from gamemodes already popular with the general combat engaged
 Storm Box makes that enclosed-small-indestructible box function the same as the Storm/Zone mechanic seen in BR and Zone Wars.<br/>
 <br/>
 Much of Storm Box's execution is done with the ecosystem in mind. Everything designed is tailored to capture the attention of typical Fortnite players accustomed to playing an occassional UGC experience. For those reasons the design for certain things is done in a way to not startle the average player.
-
+<br/><br/>
 Storm Box can be played following the directions seen here:
 https://www.fortnite.com/@zeroyahero/7521-0495-2926
