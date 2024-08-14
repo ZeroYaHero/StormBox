@@ -1,7 +1,7 @@
 # Storm Box
 ![alt text](https://github.com/ZeroYaHero/StormBox/blob/main/T_SB_LogoOutline.png)\
 8/14/24<br/>
-Storm Box is gamemode created in Fortnite's UGC Ecosystem with Epic Game's Unreal Editor for Fortnite (UEFN) and it's respective scripting language, Verse.<br/>
+Storm Box is gamemode created in Fortnite's User Generated Content (UGC) Ecosystem with Epic Game's Unreal Editor for Fortnite (UEFN) and it's respective scripting language, Verse.<br/>
 All code, models, textures, logos, etc is designed by @ZeroYaHero (me), anything not created by me is created by Epic Games and offered to creators to use as seen in their EULA and Rules:<br/>
 https://www.fortnite.com/news/fortnite-island-creator-rules<br/>
 <br/>
