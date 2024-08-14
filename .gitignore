@@ -1,1 +1,8 @@
 *.uasset
+SBI_PEG/
+SBI_Meshes/
+SBI_PersistenceManagement/
+SBI_Cinematics/
+SBI_BlueprintProps/
+SBI_HUID/
+SBI_Materials/
