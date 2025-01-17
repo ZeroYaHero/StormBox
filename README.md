@@ -13,7 +13,7 @@ Gameplay videos that showcase Storm Box:
   
 <br/>
 Storm Box derives from gamemodes already popular with the general combat engaged playerbase.<br/> 
-- One half of Storm Box originates from a mode where players enjoy combat in an enclosed-small-indestructible box with materials to build (Box fights). 
+- One half of Storm Box originates from a mode where players enjoy combat in an enclosed-small-indestructible box with materials to build (Box fights).<br/>
 - The other half takes from Zone Wars, a gamemode that essentially focuses the Storm/Zone mechanic from traditional Battle Royales (BR) that are used to force players into combat engagement, but simply omits the "looting" period of a game.<br/><br/>
 Storm Box makes that enclosed-small-indestructible box function the same as the Storm/Zone mechanic seen in BR and Zone Wars. Given this new combination of rules for this gamemode there were *hurdles* that made it harder to play Storm Box as you would other combat centric gamemodes. Most notably using environment design parallel to what Epic Games uses for their core modes like BR was not the right fit. This resulted in me designing my own Procedural Content Generation system to generate an environment for Storm Box, which is what most of the codebase reflects. It mirrors Voxel World generation like Minecraft using Noise to determine "Terrain Piece" placement.
 <br/>
